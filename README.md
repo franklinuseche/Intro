@@ -1,2 +1,2 @@
 # Intro
-Exercises from edX labs
+Exercises from edX labs - DS tools
